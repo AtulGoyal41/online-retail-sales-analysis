@@ -12,9 +12,9 @@ Each finding below follows the same structure: **Finding** (what the data shows)
 
 ## 2. EIRE Concentration Risk
 
-**Finding:** EIRE accounts for 3.64% of Net Sales Revenue, but that revenue comes from only **6 distinct customer accounts**, averaging **£59,700/account** — versus the UK's average of £2,057/account.
+**Finding:** EIRE accounts for 3.64% of Net Sales Revenue (£348,868.92), but that revenue comes from only **6 distinct customer accounts**, averaging **£58,144.82/account** — versus the UK's average of £2,057/account.
 
-**Insight:** This is not a growth opportunity ranking — it's a concentration risk. Losing even one of these 6 accounts removes roughly £59,700 in revenue at a stroke.
+**Insight:** This is not a growth opportunity ranking — it's a concentration risk. Losing even one of these 6 accounts removes roughly £58,144.82 in revenue at a stroke.
 
 **Confirmed:** The concentration itself (6 accounts driving all EIRE revenue). **Not confirmed:** whether these accounts are genuine wholesalers — no business-type field exists in the dataset to verify this.
 
