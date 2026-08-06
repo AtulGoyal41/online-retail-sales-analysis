@@ -9,7 +9,7 @@ This project analyzes transaction data from an online gift/houseware retailer, w
 ## Key Findings
 
 - **Revenue Bridge:** Net Sales Revenue — after excluding cancellations, write-offs, and vouchers — totals £9,590,913.89.
-- **EIRE Concentration Risk:** Just 6 customer accounts generate 3.64% of Net Sales Revenue, averaging £59,700 per account — versus £2,057 per account in the UK.
+- **EIRE Concentration Risk:** Just 6 customer accounts generate £348,868.92 (3.64%) of Net Sales Revenue, averaging £58,144.82 per account — versus £2,057 per account in the UK.
 - **Cancellation Rate:** Registered customers cancel orders at 18.54%, nearly 4.4x higher than Guest customers at 4.21%.
 - **Seasonal Pattern:** November (£1.40M) is the peak revenue month — not December (£402K) — meaning restocking needs to happen before November, not for a Christmas rush.
 
