@@ -6,7 +6,7 @@ Each finding below follows the same structure: **Finding** (what the data shows)
 
 ## 1. Revenue Bridge
 
-**Finding:** Gross Revenue (£10,169,340) → less Cancellations (-£629,855.37) → Net Revenue (£9,539,484.63) → plus Admin/Voucher adjustment (+£51,429.26) → **Net Sales Revenue (£9,590,913.89)** — the final true revenue figure used throughout this analysis.
+**Finding:** Gross Revenue (£10,169,340) → less Cancellations (-£629,855.37) → Net Revenue (£9,539,484.63) → plus Admin/Voucher adjustment (+£51,416.76) → **Net Sales Revenue (£9,590,901.39)** — the final true revenue figure used throughout this analysis.
 
 ---
 
@@ -36,9 +36,9 @@ Each finding below follows the same structure: **Finding** (what the data shows)
 
 ## 4. Guest vs. Registered Customers
 
-**Finding:** Average Order Value — Registered £357.32 vs. Guest £222.38 (~1.6x higher). Cancellation Rate — Registered 18.54% vs. Guest 4.21% (~4.4x higher).
+**Finding:** Average Order Value — Registered £444.38 vs. Guest £424.54 (nearly identical, only ~4.7% higher). Cancellation Rate — Registered 18.54% vs. Guest 4.21% (~4.4x higher).
 
-**Insight:** Registered customers order more per transaction, but also cancel dramatically more often.
+**Insight:** Registered and Guest customers spend almost the same amount per order — order size is not what separates them. The real difference is cancellation behavior: Registered customers cancel at more than 4x the rate of Guests, despite ordering similarly.
 
 **Confirmed (business impact):** Registered-customer cancellations total **-£483,794.70**, roughly 77% of all cancelled value (-£629,855.37). **Not confirmed:** whether Registered customers are predominantly wholesalers, or what specifically drives their higher cancellation rate (e.g. stock issues, payment issues, changing requirements) — no root-cause data exists in this dataset.
 
